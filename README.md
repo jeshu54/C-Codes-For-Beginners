@@ -4,4 +4,6 @@ I will be adding weekly codes created by me on some of the beginner level proble
 
 Appreciate anyone who could leave some problems for me and others watching this repository to solve.
 
+I will also let go of the standards in some of the codes, for any one to rectify!! 
+
 Happy coding!!
