@@ -19,7 +19,9 @@ void reverse(string A, string B, int size) {
 
 int main() {
   int size;
-  string A = "avroismyname";
+  string A;
+  cout << "Enter a string you want to reverse: "; 
+  cin >> A;
   string B;
   size = A.length();
   reverse(A,B, size);
